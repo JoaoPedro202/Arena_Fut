@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Arena_Fut" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryVariant">@color/design_default_color_error</item>
+    </style>
+
+    <style name="Theme.Arena_Fut" parent="Base.Theme.Arena_Fut" />
+</resources>
